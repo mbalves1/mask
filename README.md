@@ -9,7 +9,7 @@ Ideal para projetos com Vue, React, ou JavaScript puro.
 ## ✨ Funcionalidades
 
 - 📞 Máscara para telefone: `#####-####`
-- 🧾 CPF: `mask="cpf"` → `999.999.999-99` com edição suave (apaga caractere por caractere)
+- 🧾 CPF: `mask="cpf"` → `999.999.999-99`
 - 💰 Moeda:
   - `mask="pt-br"` → `R$ 1.234,56`
   - `mask="usd"` → `$1,234.56`
