@@ -1,0 +1,12 @@
+{
+  "name": "m-mask-lib",
+  "version": "1.0.0",
+  "description": "Simple input mask library for JS, supports cpf, currency pt-br, dates and custom masks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["input", "mask", "cpf", "currency", "date", "pt-br"],
+  "author": "MurilodeBarros",
+  "license": "ISC"
+}
