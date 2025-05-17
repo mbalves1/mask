@@ -1,6 +1,8 @@
 class InputMask {
   constructor() {
-    this.bindEvents();
+    if (typeof window !== 'undefined' && typeof document !== 'undefined') {
+      this.bindEvents();
+    }
   }
 
   bindEvents() {

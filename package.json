@@ -1,6 +1,6 @@
 {
   "name": "m-mask-lib",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simple input mask library for JS, supports cpf, currency pt-br, dates and custom masks",
   "main": "index.js",
   "scripts": {
